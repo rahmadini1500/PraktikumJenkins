@@ -108,7 +108,7 @@ include 'koneksi.php';
         ?>
 
         <footer>
-            <p>© 2025 Sistem Data Mahasiswa | Politeknik Negeri Lampung</p>
+            <p>© 2025 Sistem Survei Pelayanan SKAMVNELA | Politeknik Negeri Lampung</p>
         </footer>
     </div>
 </body>
